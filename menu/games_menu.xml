@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mythmenu name="GAMES_MENU">
+
+    <button>
+        <type>MENU_GAMES</type>
+        <text>Games Catalog</text>
+        <text lang="DE">Spiele</text>
+        <description>Play video games</description>
+        <description lang="DE">Konsolen- und andere Spieleklassiker</description>
+        <action>PLUGIN mythgame</action>
+        <depends>mythgame</depends>
+    </button>
+    <button>
+        <type>MENU_STEAM</type>
+        <text>Steam Games</text>
+        <description>Launch Steam Desktop</description>
+        <action>EXEC /usr/bin/steam-bp-loader</action>
+    </button>
+    <button>
+        <type>MENU_RETRO</type>
+        <text>Emulation Station</text>
+        <description>Launch Emulation Station</description>
+        <action>EXEC DISPLAY=:0 emulationstation</action>
+    </button>
+
+</mythmenu>

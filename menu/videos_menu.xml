@@ -29,6 +29,13 @@
     </button>
 
     <button>
+        <type>XBMC_VIDEO</type>
+        <text>Kodi Player</text>
+        <description>Launch the Kodi media player</description>
+        <action>EXEC DISPLAY=:0 kodi</action>
+    </button>
+
+    <button>
         <type>NET_VIDEO_SEARCH</type>
         <text>Search Internet Video</text>
         <text lang="DE">Suche Videos im Internet</text>

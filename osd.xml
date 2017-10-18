@@ -11,7 +11,7 @@
     explicit setting of blue text. -->
     <window name="osd_subtitle">
         <fontdef name="text" face="FreeSans" from="provider">
-            <color>#1d68e0</color>
+            <color>#b10e4c</color>
             <shadowoffset>2,2</shadowoffset>
             <shadowcolor>#000000</shadowcolor>
         </fontdef>
@@ -974,8 +974,8 @@
                     <shape name="background">
                         <area>0,0,100%,100%</area>
                         <type>roundbox</type>
-                        <fill color="#3697ef" alpha="220" />
-                        <line color="#3697ef" alpha="200" width="1" />
+                        <fill color="#bb2172" alpha="220" />
+                        <line color="#bb2172" alpha="200" width="1" />
                         <cornerradius>8</cornerradius>
                     </shape>
                 </state>
@@ -1043,8 +1043,8 @@
                     <shape name="background">
                         <area>0,0,100%,100%</area>
                         <type>roundbox</type>
-                        <fill color="#3697ef" alpha="220" />
-                        <line color="#3697ef" alpha="200" width="1" />
+                        <fill color="#bb2172" alpha="220" />
+                        <line color="#bb2172" alpha="200" width="1" />
                         <cornerradius>8</cornerradius>
                     </shape>
                 </state>
@@ -1054,8 +1054,8 @@
                     <shape name="background">
                         <area>0,0,100%,100%</area>
                         <type>roundbox</type>
-                        <fill color="#1d68e0" alpha="100" />
-                        <line color="#1d68e0" alpha="80" width="1" />
+                        <fill color="#b10e4c" alpha="100" />
+                        <line color="#b10e4c" alpha="80" width="1" />
                         <cornerradius>8</cornerradius>
                     </shape>
                 </state>
@@ -1154,7 +1154,7 @@
 
             <shape name="keep">
                 <area>0,0,800,20</area>
-                <fill color="#3694ED" alpha="255" />
+                <fill color="#B9226F" alpha="255" />
             </shape>
             <shape name="cut">
                 <area>0,0,800,20</area>
@@ -1280,8 +1280,8 @@
                     <shape name="background">
                         <area>0,0,100%,100%</area>
                         <type>roundbox</type>
-                        <fill color="#3697ef" alpha="220" />
-                        <line color="#3697ef" alpha="200" width="1" />
+                        <fill color="#bb2172" alpha="220" />
+                        <line color="#bb2172" alpha="200" width="1" />
                         <cornerradius>8</cornerradius>
                     </shape>
                     
@@ -1299,8 +1299,8 @@
                     <shape name="background">
                         <area>0,0,100%,100%</area>
                         <type>roundbox</type>
-                        <fill color="#1d68e0" alpha="100" />
-                        <line color="#1d68e0" alpha="80" width="1" />
+                        <fill color="#b10e4c" alpha="100" />
+                        <line color="#b10e4c" alpha="80" width="1" />
                         <cornerradius>8</cornerradius>
                     </shape>
                 </state>
@@ -1446,8 +1446,8 @@
                     <shape name="background">
                         <area>0,0,100%,100%</area>
                         <type>roundbox</type>
-                        <fill color="#3697ef" alpha="220" />
-                        <line color="#3697ef" alpha="200" width="1" />
+                        <fill color="#bb2172" alpha="220" />
+                        <line color="#bb2172" alpha="200" width="1" />
                         <cornerradius>8</cornerradius>
                     </shape>
                     
@@ -1465,8 +1465,8 @@
                     <shape name="background">
                         <area>0,0,100%,100%</area>
                         <type>roundbox</type>
-                        <fill color="#1d68e0" alpha="100" />
-                        <line color="#1d68e0" alpha="80" width="1" />
+                        <fill color="#b10e4c" alpha="100" />
+                        <line color="#b10e4c" alpha="80" width="1" />
                         <cornerradius>8</cornerradius>
                     </shape>
                 </state>

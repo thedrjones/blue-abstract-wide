@@ -31,7 +31,7 @@
             <layout>horizontal</layout>
             <channels>6</channels>
             <timeslots>6</timeslots>
-            <solidcolor>#003256</solidcolor>
+            <solidcolor>#563200</solidcolor>
             <!-- selection box, this needs to be improved -->
             <selector type="box" linecolor="#04b404" fillcolor="#0b610b"/>
             <!--<showcategories>yes</showcategories>-->
@@ -92,7 +92,7 @@
             <layout>horizontal</layout>
             <channels>6</channels>
             <timeslots>6</timeslots>
-            <solidcolor>#003256</solidcolor>
+            <solidcolor>#563200</solidcolor>
             <!-- selection box, this needs to be improved -->
             <selector type="box" linecolor="#04b404" fillcolor="#0b610b"/>
             <!--<showcategories>yes</showcategories>-->

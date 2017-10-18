@@ -1,4 +1,18 @@
-Homepage: http://www.mythtv.org/wiki/Blue_Abstract_Theme
+This is Red Abstract, a rose-tinted spectacles remix of the great Blue Abstract theme.
+
+The history of the theme is simple, my living room is painted with highlights of red, so I needed a mythtv theme to match...I really like the Blue Abstract and wanted to carry on using it.
+
+Most the images have been changed with a layer amendment of hue +120, saturation +10, lightness -25. This gets around the satuation change making the images too bright. 
+
+The XML theme colours have had similar changes (usually by drawing a layer of the original color and applying the same amendments, then getting the new color index), the qt-look has basically had the blue and red components swapped...which might look a little strange in some places, but seems OK to me so far.
+
+My menu structure also contain an additional games menu for launching Steam (via the script in extras, which works around a library issue in Stream on newer Ubuntu versions) and Emulation Station, I also include Kodi in the videos section. Feel free to use the original menus in place of these customised ones.
+
+All credit goes to Robert Siebert for the original theme, I've hardly had to put any effort into it!
+
+--
+
+Upstream Homepage: http://www.mythtv.org/wiki/Blue_Abstract_Theme
 
 The Blue-Abstract theme provides a clean, modern and elegant look for MythTV, a popular linux DVR software. All screens of the main application and major plugins have been themed. The screens from the plugins mythmovies, mythteatime and mythzoneminder are not included or unfinished. Currently the Blue-abstract theme contains the  most themed screens.
 

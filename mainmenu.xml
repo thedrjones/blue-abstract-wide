@@ -54,11 +54,8 @@
     <button>
         <type>MENU_GAMES</type>
         <text>Games</text>
-        <text lang="DE">Spiele</text>
-        <description>Play video games</description>
-        <description lang="DE">Konsolen- und andere Spieleklassiker</description>
-        <action>PLUGIN mythgame</action>
-        <depends>mythgame</depends>
+        <description>Play games</description>
+        <action>MENU menu/games_menu.xml</action>
     </button>
 
     <button>

@@ -2,14 +2,14 @@
 <themeinfo>
 
     <!-- This is the name of your theme as will be displayed in the theme selection menu. -->
-    <name>Blue Abstract</name>
+    <name>Red Abstract</name>
     
     <!-- This is the aspect ratio of your theme. -->
     <aspect>16:9</aspect>
     
     <!-- Information about the author -->
     <author>
-        <name>Robert Siebert</name>
+        <name>Robert Siebert, modified by Simon Lee</name>
         <email>trebor_s@web.de</email>
     </author>
 
@@ -36,7 +36,7 @@
     <!-- Defines an image in your theme directory to act as a preview and also some information about the theme -->
     <detail>
         <thumbnail name="preview">preview.png</thumbnail>
-        <description>Blue-abstract is a modern looking theme meant for widescreen HD displays. The blue background and the consistent layout makes it an attractive and elegant looking theme. It also contains a custom menu.</description>
+        <description>Red-abstract is a recolour of blue-abstract. Blue-abstract is a modern looking theme meant for widescreen HD displays. The blue background and the consistent layout makes it an attractive and elegant looking theme. It also contains a custom menu.</description>
         <errata></errata>
     </detail>
     

@@ -2,14 +2,14 @@
 <themeinfo>
 
     <!-- This is the name of your theme as will be displayed in the theme selection menu. -->
-    <name>Blue Abstract</name>
+    <name>Red Abstract</name>
 
     <!-- This is the aspect ratio of your theme. -->
     <aspect>16:9</aspect>
 
     <!-- Information about the author -->
     <author>
-        <name>Robert Siebert</name>
+        <name>Robert Siebert, modified by Simon Lee</name>
         <email>trebor_s@web.de</email>
     </author>
 

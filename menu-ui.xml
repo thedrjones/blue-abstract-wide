@@ -69,7 +69,23 @@
                     <area>0,0,1280,720</area>
                 </imagetype>
             </state>
-            
+
+            <!-- Used on games menu -->
+            <state name="MENU_STEAM">
+                 <imagetype name="watermark">
+                    <mask>images/background_mask.png</mask>
+                    <filename>images/watermarks/games3.jpg</filename>
+                    <area>0,0,1280,720</area>
+                </imagetype>               
+            </state>
+            <state name="MENU_RETRO">
+                <imagetype name="watermark">
+                    <mask>images/background_mask.png</mask>
+                    <filename>images/watermarks/games1.jpg</filename>
+                    <area>0,0,1280,720</area>
+                </imagetype>
+            </state>
+
             <!-- Background images for the TV menu -->
             <state name="TV_WATCH_TV">
                 <imagetype name="watermark">
@@ -137,6 +153,13 @@
                 <imagetype name="watermark">
                     <mask>images/background_mask.png</mask>
                     <filename>images/watermarks/favourite.jpg</filename>
+                    <area>0,0,1280,720</area>
+                </imagetype>
+            </state>
+            <state name="XBMC_VIDEO">
+                <imagetype name="watermark">
+                    <mask>images/background_mask.png</mask>
+                    <filename>images/watermarks/programs.jpg</filename>
                     <area>0,0,1280,720</area>
                 </imagetype>
             </state>
